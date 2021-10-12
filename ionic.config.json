@@ -1,0 +1,7 @@
+{
+  "name": "onde-andei",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
